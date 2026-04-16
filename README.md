@@ -1,7 +1,6 @@
-# Customer-Purchase-Data-Analysis-Pandas-Numpy-Exercise-
+# Customer-Purchase-Data-Analysis-Pandas-Numpy-Exercise
 
-
-<img width="1024" height="1536" alt="Customer purchase data" src="https://github.com/user-attachments/assets/4bf00e79-5835-4e21-bb3c-25cbd5b6667e" />
+<img width="1024" height="1536" alt="Customer Infographic purchase data" src="https://github.com/user-attachments/assets/99f1531f-86ab-4911-ab74-44374eeb79c6" />
 
 ---
 
